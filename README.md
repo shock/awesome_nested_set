@@ -1,3 +1,7 @@
+Version 2.1.7
+
+Forked from zegomesjf/awesome_nested_set. Contains a bug fix for page reordering.  See https://github.com/collectiveidea/awesome_nested_set/issues/117
+
 # AwesomeNestedSet
 
 Awesome Nested Set is an implementation of the nested set pattern for ActiveRecord models.
